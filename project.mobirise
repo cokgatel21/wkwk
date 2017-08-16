@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-07-14_1913",
-    "currentPage": "index.html",
+    "currentPage": "sijilor",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,7 +12,7 @@
     "versionPublish": "3.12.1"
   },
   "pages": {
-    "index.html": {
+    "sijilor": {
       "settings": {
         "main": true,
         "title": "",
